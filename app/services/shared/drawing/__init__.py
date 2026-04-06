@@ -1,0 +1,1 @@
+from app.services.shared.drawing.schedule_extractor import process_pdfs as extract_drawing_schedules

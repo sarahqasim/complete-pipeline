@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+.venv/
+env/
+uploads/
+outputs/
+*.csv
+*.xlsx
+app.db
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
