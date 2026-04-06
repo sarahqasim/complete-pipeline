@@ -1,6 +1,6 @@
-# Complete Pipeline — AI Document Intelligence
+# Complete Pipeline 
 
-Automated extraction of **Equipment Logs** and **Submittal Logs** from construction PDFs using Claude and Gemini.
+Automated extraction of **Equipment Logs** and **Submittal Logs** from PDFs using AI Automation.
 
 ## Architecture
 
